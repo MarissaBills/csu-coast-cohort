@@ -5,7 +5,7 @@ Learn more on the package webpage: <https://allisonhorst.github.io/palmerpenguin
 
 Here is a list *(lists need a carriage return before list items):*
 
-- bananas
+- strawberries
 - tamales
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
